@@ -3,8 +3,8 @@
 A full-stack Task Tracker built with the MERN stack (MongoDB, Express, React, Node.js).
 
   Live Demo
-- Frontend: [https://your-app.vercel.app](https://your-app.vercel.app)
-- Backend API:[https://your-api.onrender.com](https://your-api.onrender.com)
+- Frontend: https://task-tracker-zeta-three.vercel.app/
+- Backend API:https://task-tracker-1-qntc.onrender.com/
 
 
 
